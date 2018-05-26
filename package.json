@@ -19,7 +19,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "lodash": "^4.17.10",
-    "superagent": "^3.8.3"
+    "superagent": "^3.8.3",
+    "tracer": "^0.8.15"
   },
   "devDependencies": {
     "eslint": "^4.19.1"
