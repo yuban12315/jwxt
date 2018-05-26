@@ -1,0 +1,27 @@
+{
+  "name": "jwxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuban12315/jwxt.git"
+  },
+  "author": "yuban12315",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuban12315/jwxt/issues"
+  },
+  "homepage": "https://github.com/yuban12315/jwxt#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.10",
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
